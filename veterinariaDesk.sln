@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "veterinariaDesk", "veterinariaDesk\veterinariaDesk.csproj", "{0B7E6DC5-E4BD-4589-AF3A-D4CC930E1F67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{2DCBAA9C-760C-4B0D-A778-CF1E2F9F8041}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BOL", "BOL\BOL.csproj", "{35DD189C-3C16-44E6-ACF9-7C027E61D745}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B7E6DC5-E4BD-4589-AF3A-D4CC930E1F67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B7E6DC5-E4BD-4589-AF3A-D4CC930E1F67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B7E6DC5-E4BD-4589-AF3A-D4CC930E1F67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B7E6DC5-E4BD-4589-AF3A-D4CC930E1F67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DCBAA9C-760C-4B0D-A778-CF1E2F9F8041}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DCBAA9C-760C-4B0D-A778-CF1E2F9F8041}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DCBAA9C-760C-4B0D-A778-CF1E2F9F8041}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DCBAA9C-760C-4B0D-A778-CF1E2F9F8041}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35DD189C-3C16-44E6-ACF9-7C027E61D745}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35DD189C-3C16-44E6-ACF9-7C027E61D745}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35DD189C-3C16-44E6-ACF9-7C027E61D745}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35DD189C-3C16-44E6-ACF9-7C027E61D745}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D12D9A10-8622-412F-BBF5-61BC3C64E005}
+	EndGlobalSection
+EndGlobal
